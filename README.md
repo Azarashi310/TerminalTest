@@ -1,2 +1,2 @@
 # TerminalTest
-Hello World!
+Terminalからこんにちは！
